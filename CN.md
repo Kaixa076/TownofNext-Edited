@@ -1,5 +1,5 @@
 
-<h1 align="center">Town of Next: Edited (TONE)</h1>
+<h1 align="center">Town of Next：Edited (TONE)</h1>
 
 <br>
 
@@ -32,11 +32,11 @@
 **Credit to these mods and their developers for the code and help:**
 ### :star: [TOHRE](https://github.com/Loonie-Toons/) 
 > 
-> - Town of Host: Enhanced was forked from Town of Host: Re-Edited.
+> - Town of Host：Enhanced was forked from Town of Host: Re-Edited.
 >
 ### :star: [TOHE](https://github.com/KARPED1EM/TownOfHostEdited) :
 > 
-> - Town of Host: Re-Edited was forked from Town of Host: Edited. (TONX)
+> - Town of Host：Re-Edited was forked from Town of Host：Edited. (TONX)
 > 
 ### :star: [TOH](https://github.com/tukasa0001/TownOfHost) :
 > 
@@ -44,7 +44,7 @@
 > 
 ### :star: [TOHY](https://github.com/Yumenopai/TownOfHost_Y) :
 > 
-> - Many role ideas
+> - 很多角色灵感
 > - Provided roles: AntiAdminer, CursedWolf, Workaholic, Greedier (Greedy), DarkHide (Stalker)
 > - Reference: Modify game announcement
 > - Ported new UI for settings (for version AU v2024.6.18)
@@ -52,11 +52,11 @@
 > 
 ### :star: [TOH:TOR](https://github.com/discus-sions/TownOfHost-TheOtherRoles) :
 > 
-> - Many role ideas
+> - 很多角色灵感
 > - Reference: Exile Confirm
 > - Reference: Split RPC Pack
 > 
-### :star: [SNR](https://github.com/ykundesu/SuperNewRoles) :
+### :star: [超新职业](https://github.com/ykundesu/SuperNewRoles) :
 > 
 > - Reference: Credentials menu
 > - Reference: Switch Horse Mode
@@ -83,9 +83,9 @@
 ### :star: [EHR (Formerly TOHE+)](https://github.com/Gurge44/EndlessHostRoles)
 >
 > - Provided roles: Pyromaniac, Necromancer, Head Hunter (Huntsman), Alchemist, and others
-> - Game Mode: FFA
+> - 游戏模式：自由对战
 > - Improved Role Summary
-> - Dark Theme
+> - 黑暗模式
 > - Improved Role Spawns
 > - Improve text box (TextBoxPatch.cs)
 > - Some ideas to improve performance
