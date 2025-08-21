@@ -30,14 +30,18 @@
 <br>
 
 **Credit to these mods and their developers for the code and help:**
-### :star: [TOHRE](https://github.com/Loonie-Toons/) 
+### :star: [TOHE](https://github.com/EnhancedNetwork/TownofHost-Enhanced)  :
+> 
+> - Town of Next: Edited was forked from Town of Host: Enhanced.
+>
+### :star: [TOHRE](https://github.com/ItzLoonie/TownOfHost-ReEdited) :
 > 
 > - Town of Host: Enhanced was forked from Town of Host: Re-Edited.
 >
 ### :star: [TOHE](https://github.com/KARPED1EM/TownOfHostEdited) :
 > 
 > - Town of Host: Re-Edited was forked from Town of Host: Edited. (TONX)
-> 
+>
 ### :star: [TOH](https://github.com/tukasa0001/TownOfHost) :
 > 
 > - Our repo is based initially on Town of Host.
