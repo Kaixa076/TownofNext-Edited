@@ -53,12 +53,6 @@
 > - Many role ideas
 > - Reference: Exile Confirm
 > - Reference: Split RPC Pack
-### :star: [SNR](https://github.com/ykundesu/SuperNewRoles)
-> 
-> - Reference: Credentials menu
-> - Reference: Switch Horse Mode
-> - Reference: Search Mod Game
-> - Reference: Custom Button
 ### :star: [TOP](https://github.com/tugaru1975/TownOfPlus)
 > 
 > - Reference: Zoom
@@ -86,6 +80,12 @@
 >
 > - Provided roles: Swapper, Berserker, Randomizer and Blackmailer
 > - Improve chat spam system (ChatManager.cs)
+### :star: [SNR](https://github.com/ykundesu/SuperNewRoles)
+> 
+> - Reference: Credentials menu
+> - Reference: Switch Horse Mode
+> - Reference: Search Mod Game
+> - Reference: Custom Button
 ### :star: [Stellar Roles](https://github.com/Mr-Fluuff/StellarRolesAU)
 >
 > - Provided role: Inspector (Inspector)
